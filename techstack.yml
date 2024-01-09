@@ -1,0 +1,229 @@
+repo_name: 2lambda123/alpaca-trade-api-csharp
+report_id: 372db5e3ba370b09fd70891773604ed6
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:54:48+00:00'
+requested_by: OlegRa
+provider: github
+branch: master
+detected_tools_count: 17
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Documentation/_site/styles/docfx.js
+  detection_source: Documentation/_site/styles/docfx.js
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2020-02-13 15:03:58.000000000 Z
+- name: Smalltalk
+  description: An object-oriented, dynamically typed reflective programming language
+  website_url: http://en.wikipedia.org/wiki/Smalltalk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2624/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/UsageExamples/UsageExamples.csproj
+  detection_source: UsageExamples/UsageExamples.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-17 06:11:38.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  detection_source: Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-11-11 04:30:21.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  detection_source: Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-11-11 04:30:21.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions/Alpaca.Markets.Extensions.csproj
+  detection_source: Alpaca.Markets.Extensions/Alpaca.Markets.Extensions.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-11-16 07:27:54.000000000 Z
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/.github/workflows/codeql-analysis.yml
+  detection_source: ".github/workflows/codeql-analysis.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-16 07:46:38.000000000 Z
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  detection_source: Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2022-02-11 11:50:41.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/UsageExamples/UsageExamples.csproj
+  detection_source: UsageExamples/UsageExamples.csproj
+  last_updated_by: Trevor Thackston
+  last_updated_on: 2019-04-03 09:42:26.000000000 Z
+- name: Polly
+  description: A .NET resilience and transient-fault-handling library
+  website_url: http://www.thepollyproject.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Fault Tolerance Tools
+  image_url: https://img.stackshare.io/service/10882/default_8657bb75f24d5f46b223b0a61477221141a8874a.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions/Alpaca.Markets.Extensions.csproj
+  detection_source: Alpaca.Markets.Extensions/Alpaca.Markets.Extensions.csproj
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-11-15 23:10:20.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.sln
+  detection_source: Alpaca.Markets.sln
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2022-01-31 14:07:53.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.6.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  detection_source: Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2022-02-11 11:50:41.000000000 Z
+- name: System.Net.Http.WinHttpHandler
+  description: Provides a message handler for HttpClient based on the WinHTTP interface
+    of Windows
+  package_url: https://www.nuget.org/System.Net.Http.WinHttpHandler
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13507/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets/Alpaca.Markets.csproj
+  detection_source: Alpaca.Markets/Alpaca.Markets.csproj
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2023-11-16 07:58:38.000000000 Z
+- name: System.Threading.Tasks.Extensions
+  description: Provides additional types that simplify the work of writing concurrent
+    and asynchronous code
+  package_url: https://www.nuget.org/System.Threading.Tasks.Extensions
+  version: 4.5.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12998/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/UsageExamples/UsageExamples.csproj
+  detection_source: UsageExamples/UsageExamples.csproj
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2023-11-16 07:58:38.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.5.4
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/2lambda123/alpaca-trade-api-csharp/blob/master/Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  detection_source: Alpaca.Markets.Extensions.Tests/Alpaca.Markets.Extensions.Tests.csproj
+  last_updated_by: Oleg Rakhmatulin
+  last_updated_on: 2023-11-20 10:53:50.000000000 Z
